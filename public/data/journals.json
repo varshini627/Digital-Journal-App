@@ -1,0 +1,23 @@
+    [
+  {
+    "id": 1,
+    "title": "My First Journal",
+    "content": "Today I started building my Digital Journal App using Node.js and Express.",
+    "mood": "Happy",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 2,
+    "title": "Learning Full Stack",
+    "content": "I learned how frontend and backend communicate using APIs.",
+    "mood": "Excited",
+    "date": "2026-06-18"
+  },
+  {
+    "id": 3,
+    "title": "Project Progress",
+    "content": "Completed adding create, edit, delete and search features.",
+    "mood": "Proud",
+    "date": "2026-06-18"
+  }
+]
